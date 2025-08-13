@@ -12,6 +12,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add C.Basic.Struct project with Person struct and Direction enum for .NET 8.0
+  ([e45a0b86](https://github.com/DaoChaShao/csharp-basic/commit/e45a0b867453532b4fbe876f45dca5b70915db83))
 - add B.Basic.DataType project with basic data type examples for .NET 8.0
   ([b353050f](https://github.com/DaoChaShao/csharp-basic/commit/b353050ff3a947597dbf89b618baa262a487cf20))
 - rename namespace from a_greeting to A.Basic.Greet
@@ -42,6 +44,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md with recent feature additions and documentation updates
+  ([aef01f11](https://github.com/DaoChaShao/csharp-basic/commit/aef01f11315aee9a9875050ed9d93c635b461372))
 - update CHANGELOG.md with recent features and documentation updates
   ([3e241568](https://github.com/DaoChaShao/csharp-basic/commit/3e241568553ca6e0c22b78b730bbfbfc087f4600))
 - add link to official git-changelog documentation in README.md
