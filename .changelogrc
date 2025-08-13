@@ -1,0 +1,24 @@
+{
+  "app_name": "CHANGELOG",
+  "logo": "https://github.com/rafinskipg/git-changelog/raw/master/images/git-changelog-logo.png",
+  "intro": "All notable changes to this project will be documented in this file:",
+  "branch": "",
+  "repo_url": "https://github.com/DaoChaShao/csharp-basic",
+  "version_name": "v 0.1.0 ",
+  "file": "CHANGELOG.md",
+  "commitGroupsSort": "title",
+  "commitSort": ["scope", "subject"],
+  "commitGroups": [
+    { "title": "Bug Fixes", "grep": "^fix" },
+    { "title": "Features", "grep": "^feat" },
+    { "title": "Documentation", "grep": "^docs" },
+    { "title": "Breaking changes", "grep": "BREAKING" },
+    { "title": "Refactor", "grep": "^refactor" },
+    { "title": "Style", "grep": "^style" },
+    { "title": "Test", "grep": "^test" },
+    { "title": "Chore", "grep": "^chore" },
+    { "title": "Branches merged", "grep": "^Merge branch" },
+    { "title": "Pull requests merged", "grep": "^Merge pull request" }
+  ],
+  "compareLink": {"enabled": false, "baseUrl": ""}
+}
