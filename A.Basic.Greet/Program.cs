@@ -1,4 +1,6 @@
-﻿namespace a_greeting;
+﻿namespace A.Basic.Greet;
+
+using System;
 
 class Program
 {
