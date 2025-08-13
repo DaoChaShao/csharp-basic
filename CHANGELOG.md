@@ -12,6 +12,14 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add B.Basic.DataType project with basic data type examples for .NET 8.0
+  ([b353050f](https://github.com/DaoChaShao/csharp-basic/commit/b353050ff3a947597dbf89b618baa262a487cf20))
+- rename namespace from a_greeting to A.Basic.Greet
+  ([225c761f](https://github.com/DaoChaShao/csharp-basic/commit/225c761fadedf75fa5df5335a85a694a73a5ebd4))
+- update solution file to include new projects for data types and structures
+  ([09e26fd5](https://github.com/DaoChaShao/csharp-basic/commit/09e26fd5a2eabf2af1e57be3605021af2c7c17f1))
+- add A.Basic.Greet project for .NET 8.0 setup
+  ([a5ee8552](https://github.com/DaoChaShao/csharp-basic/commit/a5ee85524e0b94e9595e7f5be924c41cd4e5017d))
 - add b-data-type project to solution
   ([0dc6b43d](https://github.com/DaoChaShao/csharp-basic/commit/0dc6b43dfcd76695c4162f9dff908e9b40758e21))
 - add b-data-type.csproj for .NET 8.0 project setup
@@ -34,6 +42,10 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md with recent features and documentation updates
+  ([3e241568](https://github.com/DaoChaShao/csharp-basic/commit/3e241568553ca6e0c22b78b730bbfbfc087f4600))
+- add link to official git-changelog documentation in README.md
+  ([4f0046dd](https://github.com/DaoChaShao/csharp-basic/commit/4f0046dd2acff91d8c69d9272e610b858977cfe8))
 - update CHANGELOG.md with recent features and documentation updates
   ([608e02e9](https://github.com/DaoChaShao/csharp-basic/commit/608e02e970d1135aed81482e5ea793cc4b4279ee))
 - update README with instructions for using git-changelog
