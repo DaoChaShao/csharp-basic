@@ -12,6 +12,10 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add F.Basic.Condition project to solution
+  ([9bc53623](https://github.com/DaoChaShao/csharp-basic/commit/9bc53623fd3be63b0c3295a2e4d1f2f521c7fca7))
+- add F.Basic.Condition project with examples of conditional statements and random number generation
+  ([f4174f9f](https://github.com/DaoChaShao/csharp-basic/commit/f4174f9fc122015c541f17f788437fd8e21aeea1))
 - add E.Basic.Input project with console input handling examples
   ([02d1bcc4](https://github.com/DaoChaShao/csharp-basic/commit/02d1bcc4a941a4f0f03c618210b3b0d47f5a8a9d))
 - add D.Basic.Calculation project with random number generation and fake data using Bogus
@@ -48,6 +52,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md to reflect recent feature additions
+  ([1c294d8e](https://github.com/DaoChaShao/csharp-basic/commit/1c294d8ed92bb382fb1e9ea6b43214292ec50929))
 - update CHANGELOG.md to reflect recent feature additions
   ([7e8517cd](https://github.com/DaoChaShao/csharp-basic/commit/7e8517cdb248a6b6ca343c80e750fe301d5f4ba9))
 - update CHANGELOG.md to include recent feature additions
