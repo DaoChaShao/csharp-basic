@@ -12,6 +12,10 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add G.Basic.Loop project to solution
+  ([ba3d706c](https://github.com/DaoChaShao/csharp-basic/commit/ba3d706c0591f643becf0587af8136ba15f5eb70))
+- add G.Basic.Loop project with examples of various loop constructs
+  ([9c9bb9f6](https://github.com/DaoChaShao/csharp-basic/commit/9c9bb9f65b4ba6214f525e504432567308598116))
 - add F.Basic.Condition project to solution
   ([9bc53623](https://github.com/DaoChaShao/csharp-basic/commit/9bc53623fd3be63b0c3295a2e4d1f2f521c7fca7))
 - add F.Basic.Condition project with examples of conditional statements and random number generation
@@ -52,6 +56,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md to include recent feature additions
+  ([7e15d95f](https://github.com/DaoChaShao/csharp-basic/commit/7e15d95f8c77b18c39f7bdd9be34f5a3574b98d5))
 - update CHANGELOG.md to reflect recent feature additions
   ([1c294d8e](https://github.com/DaoChaShao/csharp-basic/commit/1c294d8ed92bb382fb1e9ea6b43214292ec50929))
 - update CHANGELOG.md to reflect recent feature additions
