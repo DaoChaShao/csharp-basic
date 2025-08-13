@@ -12,6 +12,16 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add K.Class.Definition project to the solution
+  ([5efb9d9b](https://github.com/DaoChaShao/csharp-basic/commit/5efb9d9bcb45807846b2d5ce9e7776ee5576c9d2))
+- add Helper class with GenderPicker method for random gender selection
+  ([87f20f25](https://github.com/DaoChaShao/csharp-basic/commit/87f20f250e44f76db77f77952481b47f0c84b491))
+- add K.Class.Definition project with random data generation and person introduction
+  ([b3ba3d7e](https://github.com/DaoChaShao/csharp-basic/commit/b3ba3d7e8356ce466890006eeafee275c8c194e1))
+- add Person class with properties and introduction method
+  ([ca2089f5](https://github.com/DaoChaShao/csharp-basic/commit/ca2089f5f8a3d0051d3c57d5ad9e30749148163f))
+- add Gender enum to define male and female options
+  ([e7a43be3](https://github.com/DaoChaShao/csharp-basic/commit/e7a43be3e77ff7fcb6a6c4f4d42601331eb3a311))
 - add J.ExceptionHandling project to solution
   ([79ab162f](https://github.com/DaoChaShao/csharp-basic/commit/79ab162f372d25469fc34caaf8272453b2f6848c))
 - add J.ExceptionHandling project with basic exception handling examples
@@ -68,6 +78,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md to include J.ExceptionHandling project features
+  ([01b272ea](https://github.com/DaoChaShao/csharp-basic/commit/01b272eaea29939e4de3d825568c7b342427b017))
 - update CHANGELOG.md to include I.Function project features
   ([1178286d](https://github.com/DaoChaShao/csharp-basic/commit/1178286d97069e44a52f5c963918530afeadf5ba))
 - update CHANGELOG.md to include H.Basic.Enum project features
