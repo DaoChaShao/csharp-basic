@@ -12,6 +12,10 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add J.ExceptionHandling project to solution
+  ([79ab162f](https://github.com/DaoChaShao/csharp-basic/commit/79ab162f372d25469fc34caaf8272453b2f6848c))
+- add J.ExceptionHandling project with basic exception handling examples
+  ([96f60ae7](https://github.com/DaoChaShao/csharp-basic/commit/96f60ae7b1d4485a4504a9e9d06f50091b2e47aa))
 - add I.Function project to solution
   ([0d9c9aed](https://github.com/DaoChaShao/csharp-basic/commit/0d9c9aedbed7ef20874272d931bd80bf0d6f0397))
 - add I.Function project with basic function examples
@@ -64,6 +68,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md to include I.Function project features
+  ([1178286d](https://github.com/DaoChaShao/csharp-basic/commit/1178286d97069e44a52f5c963918530afeadf5ba))
 - update CHANGELOG.md to include H.Basic.Enum project features
   ([bcacc3e9](https://github.com/DaoChaShao/csharp-basic/commit/bcacc3e99ffc325a596e05fe267fd9bcac79be6f))
 - update CHANGELOG.md to include G.Basic.Loop project features
