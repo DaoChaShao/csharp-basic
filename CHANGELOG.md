@@ -12,6 +12,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add E.Basic.Input project with console input handling examples
+  ([02d1bcc4](https://github.com/DaoChaShao/csharp-basic/commit/02d1bcc4a941a4f0f03c618210b3b0d47f5a8a9d))
 - add D.Basic.Calculation project with random number generation and fake data using Bogus
   ([e8582632](https://github.com/DaoChaShao/csharp-basic/commit/e858263232effd96020e01d4f24bc44e8cd8aee0))
 - add C.Basic.Struct project with Person struct and Direction enum for .NET 8.0
@@ -46,6 +48,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md to include recent feature additions
+  ([656d05e2](https://github.com/DaoChaShao/csharp-basic/commit/656d05e2e82948125fdb5f54c0d87c58c76a0dc5))
 - update CHANGELOG.md to include recent feature additions
   ([2764623d](https://github.com/DaoChaShao/csharp-basic/commit/2764623d30613564e8661d00b2d7556a23a414ba))
 - update CHANGELOG.md with recent feature additions and documentation updates
