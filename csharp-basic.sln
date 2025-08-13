@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I.Function", "I.Function\I.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J.ExceptionHandling", "J.ExceptionHandling\J.ExceptionHandling.csproj", "{4A9EC83C-4E40-47C5-987E-4E12EEB5D19F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K.Class.Definition", "K.Class.Definition\K.Class.Definition.csproj", "{AB648118-DC0C-488A-BA6D-685AD2E39CCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{4A9EC83C-4E40-47C5-987E-4E12EEB5D19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A9EC83C-4E40-47C5-987E-4E12EEB5D19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A9EC83C-4E40-47C5-987E-4E12EEB5D19F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB648118-DC0C-488A-BA6D-685AD2E39CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB648118-DC0C-488A-BA6D-685AD2E39CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB648118-DC0C-488A-BA6D-685AD2E39CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB648118-DC0C-488A-BA6D-685AD2E39CCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
