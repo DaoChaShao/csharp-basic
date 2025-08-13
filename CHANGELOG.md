@@ -34,6 +34,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md with recent features and documentation updates
+  ([608e02e9](https://github.com/DaoChaShao/csharp-basic/commit/608e02e970d1135aed81482e5ea793cc4b4279ee))
 - update README with instructions for using git-changelog
   ([c2337beb](https://github.com/DaoChaShao/csharp-basic/commit/c2337bebe4ef450afdddaf68219213d96f95a2bf))
 
