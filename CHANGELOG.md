@@ -12,6 +12,10 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add H.Basic.Enum project to solution
+  ([c716ce0d](https://github.com/DaoChaShao/csharp-basic/commit/c716ce0d2001fcf77d749be76d06419725484c13))
+- add H.Basic.Enum project with enum usage examples
+  ([8773e417](https://github.com/DaoChaShao/csharp-basic/commit/8773e417e5e7f099cc30625823009eda65f948c4))
 - add G.Basic.Loop project to solution
   ([ba3d706c](https://github.com/DaoChaShao/csharp-basic/commit/ba3d706c0591f643becf0587af8136ba15f5eb70))
 - add G.Basic.Loop project with examples of various loop constructs
@@ -56,6 +60,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md to include G.Basic.Loop project features
+  ([f77f50ba](https://github.com/DaoChaShao/csharp-basic/commit/f77f50ba126017f10ba04f5616ec018bb6e968fd))
 - update CHANGELOG.md to include recent feature additions
   ([7e15d95f](https://github.com/DaoChaShao/csharp-basic/commit/7e15d95f8c77b18c39f7bdd9be34f5a3574b98d5))
 - update CHANGELOG.md to reflect recent feature additions
