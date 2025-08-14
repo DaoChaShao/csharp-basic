@@ -1,4 +1,4 @@
-<img width="300px" src="https://github.com/rafinskipg/git-changelog/raw/master/images/git-changelog-logo.png" />
+<img width="300px" src="https://avatars.githubusercontent.com/u/168340159?v=4" />
 
 __CHANGELOG__
 
@@ -84,6 +84,10 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update logo URL in .changelogrc
+  ([152e8679](https://github.com/DaoChaShao/csharp-basic/commit/152e8679a9b394cce176ed05495d0819a4bb88a6))
+- update CHANGELOG.md for version 0.1.0 to reflect recent features
+  ([2a29a832](https://github.com/DaoChaShao/csharp-basic/commit/2a29a83225a1c77945509ba9d3742b8f5f248068))
 - update CHANGELOG.md to include recent features and projects
   ([f5f87bd2](https://github.com/DaoChaShao/csharp-basic/commit/f5f87bd23aebb645f4a1fd4f7ff1e0afac2c44fb))
 - update CHANGELOG.md to include J.ExceptionHandling project features
