@@ -4,7 +4,7 @@ __CHANGELOG__
 
 _All notable changes to this project will be documented in this file:_
 
-# v 0.1.0  (2025-08-13)
+# v 0.1.0  (2025-08-14)
 
 
 
@@ -12,6 +12,12 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add L.Basic.Array project to the solution
+  ([14e1f599](https://github.com/DaoChaShao/csharp-basic/commit/14e1f5999870761f77d42477e97fe0884d3e34a6))
+- add Helper class with RandomScoreGenerator and BubbleSort methods
+  ([5e82b08e](https://github.com/DaoChaShao/csharp-basic/commit/5e82b08e1bbb6eb7488643568cf716a0b066f58d))
+- add L.Basic.Array project with random gender selection and array operations
+  ([46b8fa00](https://github.com/DaoChaShao/csharp-basic/commit/46b8fa00251ad41165de6aa1f7d725d3bdf07e99))
 - add K.Class.Definition project to the solution
   ([5efb9d9b](https://github.com/DaoChaShao/csharp-basic/commit/5efb9d9bcb45807846b2d5ce9e7776ee5576c9d2))
 - add Helper class with GenderPicker method for random gender selection
@@ -78,6 +84,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md to include recent features and projects
+  ([f5f87bd2](https://github.com/DaoChaShao/csharp-basic/commit/f5f87bd23aebb645f4a1fd4f7ff1e0afac2c44fb))
 - update CHANGELOG.md to include J.ExceptionHandling project features
   ([01b272ea](https://github.com/DaoChaShao/csharp-basic/commit/01b272eaea29939e4de3d825568c7b342427b017))
 - update CHANGELOG.md to include I.Function project features
