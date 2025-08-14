@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J.ExceptionHandling", "J.Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K.Class.Definition", "K.Class.Definition\K.Class.Definition.csproj", "{AB648118-DC0C-488A-BA6D-685AD2E39CCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.Basic.Array", "L.Basic.Array\L.Basic.Array.csproj", "{A23C27C7-058C-48F1-A466-498BA1A438F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{AB648118-DC0C-488A-BA6D-685AD2E39CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB648118-DC0C-488A-BA6D-685AD2E39CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB648118-DC0C-488A-BA6D-685AD2E39CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23C27C7-058C-48F1-A466-498BA1A438F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23C27C7-058C-48F1-A466-498BA1A438F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23C27C7-058C-48F1-A466-498BA1A438F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23C27C7-058C-48F1-A466-498BA1A438F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
