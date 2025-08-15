@@ -2,7 +2,7 @@
 This repository is intended to store code for learning fundamental C# concepts and skills. It also serves as a practice
 space for version control using Git and GitHub, including changelog management.
 
-**CHANGELOG for git-chglog**
+**HOW TO USE git-changelog built with Node.js**
 
 1. If capable, you can update the installation tool npm initially, by running the following command
    `npm install -g npm@x.x.x`, where x.x.x is your target npm version. You can then verify the installed npm version in
@@ -18,4 +18,5 @@ space for version control using Git and GitHub, including changelog management.
 6. The `CHANGELOG.md` file will be updated automatically each time you run the `git-changelog` command.
 7. The `CHANGELOG.md` is generated using ** the default template**. To change its format, customise the `template.md`
    and `commit_template.md` files inside the `templates` directory.
-8. If you want to know more about the `git-changelog` tool, you can check the official [documentation](https://github.com/rafinskipg/git-changelog).
+8. If you want to know more about the `git-changelog` tool, you can check the
+   official [documentation](https://github.com/rafinskipg/git-changelog).
