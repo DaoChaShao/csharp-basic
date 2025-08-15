@@ -12,6 +12,30 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- implement main program to initialize and display teacher information
+  ([69a46042](https://github.com/DaoChaShao/csharp-basic/commit/69a46042830a23486456d83bf83a9114e9cce7e3))
+- add Teacher class implementing ISing, IDance, IChinese, and IEnglish interfaces
+  ([23f75be6](https://github.com/DaoChaShao/csharp-basic/commit/23f75be6654d4b0dcffaad5b342e7ea431bd4477))
+- add Helper class with methods for random gender, subject, and boolean selection
+  ([1ff68a17](https://github.com/DaoChaShao/csharp-basic/commit/1ff68a176f1c15ca917fafd775ff6ba24f53dd1b))
+- add ISing interface with Sing method
+  ([83f01f56](https://github.com/DaoChaShao/csharp-basic/commit/83f01f560d7abbd40d9b67049135c862fa4f8fd6))
+- add IEnglish interface with SpeakEnglish method
+  ([06714836](https://github.com/DaoChaShao/csharp-basic/commit/0671483674c5ce6fd17a056ea8079bb300b8d04f))
+- add IDance interface with Dance method
+  ([3e617f95](https://github.com/DaoChaShao/csharp-basic/commit/3e617f95661bed067d0d5fe650a71b3fde8d7b2a))
+- add IChinese interface with SpeakChinese method
+  ([b66ab582](https://github.com/DaoChaShao/csharp-basic/commit/b66ab582f6ebbeb73381cd0a1338dfc5889267d0))
+- add abstract Person class with properties for name, age, and gender
+  ([5c55b521](https://github.com/DaoChaShao/csharp-basic/commit/5c55b5219b090b7b169d8b401dbd85d06ab4e54b))
+- add Gender enum to N.Class.Interface for gender representation
+  ([451bec32](https://github.com/DaoChaShao/csharp-basic/commit/451bec32ec7364d41384b659cef75c7ece6b57d4))
+- add N.Class.Interface project with initial configuration and dependencies
+  ([3a9a0c62](https://github.com/DaoChaShao/csharp-basic/commit/3a9a0c6253bd841566e8fb5216d2b3983235f63e))
+- add N.Class.Interface project to the solution
+  ([4cf7b2a1](https://github.com/DaoChaShao/csharp-basic/commit/4cf7b2a108867ac2a8f97d0ec900d37f1d98bc44))
+- update CHANGELOG.md for version 0.1.0 with recent feature additions
+  ([aa43d19e](https://github.com/DaoChaShao/csharp-basic/commit/aa43d19e2cbce9eecb307de5e0afca3ebc40ad61))
 - add M.Class.Abstract project to the solution
   ([b5bb4285](https://github.com/DaoChaShao/csharp-basic/commit/b5bb42857ddda5b397b3731546391d4b9f3ac6da))
 - add Helper class with methods for random gender, faculty name, and subject selection
