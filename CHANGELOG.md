@@ -12,6 +12,18 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- implement main program logic for delegate usage and language selection
+  ([1d2fdb10](https://github.com/DaoChaShao/csharp-basic/commit/1d2fdb105dd9fdf555b95264f10b3a1595c42624))
+- add Option enum for language selection
+  ([cf6e39a2](https://github.com/DaoChaShao/csharp-basic/commit/cf6e39a28805e83076f81561f90494fc0e042d2c))
+- add Helper class for greeting and delegate execution
+  ([22b0ef3a](https://github.com/DaoChaShao/csharp-basic/commit/22b0ef3a9b720020c856838e169ac12e57554725))
+- add DelegateAgent delegate for handling string operations
+  ([32e1c452](https://github.com/DaoChaShao/csharp-basic/commit/32e1c45262fd4117356db183b828142a8a067c9d))
+- add P.Delegate project with initial configuration and dependencies
+  ([8d76403f](https://github.com/DaoChaShao/csharp-basic/commit/8d76403fd79e5a4f4babfdc16c61029d1db5a6d4))
+- add P.Delegate project to solution
+  ([aba75840](https://github.com/DaoChaShao/csharp-basic/commit/aba758400e05bc7ef1322d2684e0d0aa8cacf32b))
 - add O.Generic project to solution
   ([7480a3b5](https://github.com/DaoChaShao/csharp-basic/commit/7480a3b59b041496082bb8fd937f7a063337b12d))
 - add Helper class with generic methods for storing and summing numbers
@@ -180,6 +192,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Chore
 
+- update CHANGELOG.md to include recent feature additions
+  ([18f4c4a9](https://github.com/DaoChaShao/csharp-basic/commit/18f4c4a95f274ce47f3d57f9910747a73341339e))
 - update CHANGELOG.md for version 0.1.0 with recent feature additions
   ([7efc2980](https://github.com/DaoChaShao/csharp-basic/commit/7efc29806cfb499f740e29e84e98c7c7aba97907))
 
