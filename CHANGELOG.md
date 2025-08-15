@@ -12,6 +12,20 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add M.Class.Abstract project to the solution
+  ([b5bb4285](https://github.com/DaoChaShao/csharp-basic/commit/b5bb42857ddda5b397b3731546391d4b9f3ac6da))
+- add Helper class with methods for random gender, faculty name, and subject selection
+  ([4317c5a9](https://github.com/DaoChaShao/csharp-basic/commit/4317c5a9e1f2bb3aff263620feaaf87280d9d824))
+- add Teacher class extending Faculty with profession and salary properties
+  ([4e1a1ceb](https://github.com/DaoChaShao/csharp-basic/commit/4e1a1ceb496ce6197c2d8dd161643a1bf0df3ff5))
+- add Faculty class with introduction and greeting methods
+  ([d43880f0](https://github.com/DaoChaShao/csharp-basic/commit/d43880f0300f13ad16d9f2d1c00104cdbaf0811b))
+- add abstract Person class with properties for name, age, and gender
+  ([76adbe77](https://github.com/DaoChaShao/csharp-basic/commit/76adbe776255f529882d744a05d811f547dd7e62))
+- add Gender enum to represent male and female options
+  ([a3012f06](https://github.com/DaoChaShao/csharp-basic/commit/a3012f06712eb340be7e564a33b70f918f864927))
+- add initial project structure with Program and csproj files
+  ([54bc6e2f](https://github.com/DaoChaShao/csharp-basic/commit/54bc6e2fefbd42edf28394f37ee5b1363b52c60f))
 - add Teacher class with salary property and teaching method
   ([cd00ed72](https://github.com/DaoChaShao/csharp-basic/commit/cd00ed7237d7f257792dae0ad476f327410ea0ba))
 - add Student class with score property and study method
@@ -92,6 +106,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md for version 0.1.0 with recent feature additions
+  ([74b8fa84](https://github.com/DaoChaShao/csharp-basic/commit/74b8fa846ae08c54e1b8e4a3f637fdee17160dfb))
 - update logo URL in CHANGELOG.md
   ([5d5980da](https://github.com/DaoChaShao/csharp-basic/commit/5d5980da7ff03bb6172b4ff5a675316dbafc2531))
 - update logo URL in .changelogrc
