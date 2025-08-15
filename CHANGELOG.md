@@ -4,7 +4,7 @@ __CHANGELOG__
 
 _All notable changes to this project will be documented in this file:_
 
-# v 0.1.0  (2025-08-14)
+# v 0.1.0  (2025-08-15)
 
 
 
@@ -12,6 +12,14 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add Teacher class with salary property and teaching method
+  ([cd00ed72](https://github.com/DaoChaShao/csharp-basic/commit/cd00ed7237d7f257792dae0ad476f327410ea0ba))
+- add Student class with score property and study method
+  ([f6a29334](https://github.com/DaoChaShao/csharp-basic/commit/f6a29334dbf3f6a0f471952b22c84f537310d296))
+- enhance object creation logic for Person, Student, and Teacher classes
+  ([e5c2f610](https://github.com/DaoChaShao/csharp-basic/commit/e5c2f61062574bb21d2784750c4f8e1271818f45))
+- enhance Person class with static person count and virtual Introduce method
+  ([b48b846d](https://github.com/DaoChaShao/csharp-basic/commit/b48b846da26f15f83563a321e20fd7a308adb58c))
 - add L.Basic.Array project to the solution
   ([14e1f599](https://github.com/DaoChaShao/csharp-basic/commit/14e1f5999870761f77d42477e97fe0884d3e34a6))
 - add Helper class with RandomScoreGenerator and BubbleSort methods
@@ -84,6 +92,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update logo URL in CHANGELOG.md
+  ([5d5980da](https://github.com/DaoChaShao/csharp-basic/commit/5d5980da7ff03bb6172b4ff5a675316dbafc2531))
 - update logo URL in .changelogrc
   ([152e8679](https://github.com/DaoChaShao/csharp-basic/commit/152e8679a9b394cce176ed05495d0819a4bb88a6))
 - update CHANGELOG.md for version 0.1.0 to reflect recent features
