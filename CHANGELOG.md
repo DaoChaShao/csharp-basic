@@ -12,6 +12,14 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add O.Generic project to solution
+  ([7480a3b5](https://github.com/DaoChaShao/csharp-basic/commit/7480a3b59b041496082bb8fd937f7a063337b12d))
+- add Helper class with generic methods for storing and summing numbers
+  ([49fe4e38](https://github.com/DaoChaShao/csharp-basic/commit/49fe4e38f69ab2c904db855983bc847af7499800))
+- implement main program to demonstrate Helper class functionality
+  ([a02132ad](https://github.com/DaoChaShao/csharp-basic/commit/a02132adf6b58bff3f826e6a341c33939a4a98ae))
+- add project file for .NET 8.0 application setup
+  ([27b11403](https://github.com/DaoChaShao/csharp-basic/commit/27b11403d95df8c21593200f825d070c97edf3a3))
 - implement main program to initialize and display teacher information
   ([69a46042](https://github.com/DaoChaShao/csharp-basic/commit/69a46042830a23486456d83bf83a9114e9cce7e3))
 - add Teacher class implementing ISing, IDance, IChinese, and IEnglish interfaces
@@ -168,6 +176,12 @@ _All notable changes to this project will be documented in this file:_
   ([608e02e9](https://github.com/DaoChaShao/csharp-basic/commit/608e02e970d1135aed81482e5ea793cc4b4279ee))
 - update README with instructions for using git-changelog
   ([c2337beb](https://github.com/DaoChaShao/csharp-basic/commit/c2337bebe4ef450afdddaf68219213d96f95a2bf))
+
+
+## Chore
+
+- update CHANGELOG.md for version 0.1.0 with recent feature additions
+  ([7efc2980](https://github.com/DaoChaShao/csharp-basic/commit/7efc29806cfb499f740e29e84e98c7c7aba97907))
 
 
 
