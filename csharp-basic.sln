@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R.Operator.Overload", "R.Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S.Basic.List", "S.Basic.List\S.Basic.List.csproj", "{A3FBE5F8-53F6-4499-81A4-C6B6925E6CD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T.Basic.Dictionary", "T.Basic.Dictionary\T.Basic.Dictionary.csproj", "{28D37242-E9F3-48AE-87C0-072C90C266F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{A3FBE5F8-53F6-4499-81A4-C6B6925E6CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3FBE5F8-53F6-4499-81A4-C6B6925E6CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3FBE5F8-53F6-4499-81A4-C6B6925E6CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D37242-E9F3-48AE-87C0-072C90C266F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D37242-E9F3-48AE-87C0-072C90C266F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D37242-E9F3-48AE-87C0-072C90C266F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D37242-E9F3-48AE-87C0-072C90C266F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
