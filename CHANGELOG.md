@@ -12,6 +12,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- add sorting functionality to the names list
+  ([44deb253](https://github.com/DaoChaShao/csharp-basic/commit/44deb25333775730439a95e9d70a08d7b8900744))
 - implement basic list operations with Faker for name generation
   ([a865b2c3](https://github.com/DaoChaShao/csharp-basic/commit/a865b2c3561212cdfaa75e5ab0be0f22b5a1d0ea))
 - add S.Basic.List project with initial configuration and dependencies
@@ -226,6 +228,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Chore
 
+- update CHANGELOG.md to reflect recent feature additions
+  ([96027a9e](https://github.com/DaoChaShao/csharp-basic/commit/96027a9e0306e0ed8b9d66bfe8eedcedb4642c7c))
 - update CHANGELOG.md to include recent feature additions
   ([155f165e](https://github.com/DaoChaShao/csharp-basic/commit/155f165e8fb67d31e5812f15678332c0943d31ea))
 - update CHANGELOG.md for version 0.1.0 with recent feature additions
