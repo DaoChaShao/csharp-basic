@@ -12,6 +12,12 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- implement basic list operations with Faker for name generation
+  ([a865b2c3](https://github.com/DaoChaShao/csharp-basic/commit/a865b2c3561212cdfaa75e5ab0be0f22b5a1d0ea))
+- add S.Basic.List project with initial configuration and dependencies
+  ([1685fd43](https://github.com/DaoChaShao/csharp-basic/commit/1685fd43196cf00a13a2b09a964a4507a9445efc))
+- add S.Basic.List project to the solution
+  ([5d258f80](https://github.com/DaoChaShao/csharp-basic/commit/5d258f800503cd29f3beacc1b4e40e448d787580))
 - implement main program to demonstrate Box operator overloading
   ([36c5e432](https://github.com/DaoChaShao/csharp-basic/commit/36c5e43266ca52a8417db2faf2b82a6d9b96c6aa))
 - add Box class with operator overloading for addition
@@ -220,6 +226,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Chore
 
+- update CHANGELOG.md to include recent feature additions
+  ([155f165e](https://github.com/DaoChaShao/csharp-basic/commit/155f165e8fb67d31e5812f15678332c0943d31ea))
 - update CHANGELOG.md for version 0.1.0 with recent feature additions
   ([bcc8dc2f](https://github.com/DaoChaShao/csharp-basic/commit/bcc8dc2f45928a29ce6f8b9f49289c9346c0dc00))
 - update CHANGELOG.md to include recent feature additions
