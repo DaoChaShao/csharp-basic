@@ -78,5 +78,16 @@ class Program
         Console.WriteLine($"The list contains {names.Count} names after second deletion.");
 
         #endregion
+
+        #region List - Sort
+
+        names.Sort();
+
+        foreach (var name in names)
+        {
+            Console.WriteLine(name);
+        }
+
+        #endregion
     }
 }
