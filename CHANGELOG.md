@@ -4,7 +4,7 @@ __CHANGELOG__
 
 _All notable changes to this project will be documented in this file:_
 
-# v 0.1.0  (2025-08-15)
+# v 0.1.0  (2025-08-16)
 
 
 
@@ -12,6 +12,22 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- implement main program for user creation and event handling
+  ([01c8fa9a](https://github.com/DaoChaShao/csharp-basic/commit/01c8fa9a4771c1883c9cea02d1cb3d53fc2b792e))
+- add Helper class with methods for random gender selection and delay setting
+  ([7f8fd480](https://github.com/DaoChaShao/csharp-basic/commit/7f8fd480c981298f1076352a21c18f71ffdd54fa))
+- add User class with event handling and introduction method
+  ([d2eddb94](https://github.com/DaoChaShao/csharp-basic/commit/d2eddb94fcb16329353f10aeec34a3cffcebef7b))
+- add Loader class for file, map, and skin loading functionality
+  ([ff8f2ca7](https://github.com/DaoChaShao/csharp-basic/commit/ff8f2ca75ebc4c1fbac8ba45fdb99029d0f2c1fe))
+- add EventAgent delegate for user event handling
+  ([5fdabef7](https://github.com/DaoChaShao/csharp-basic/commit/5fdabef76e4f4a13a1969ff41249335e016e3028))
+- add Gender enum to represent gender options
+  ([dc5340a5](https://github.com/DaoChaShao/csharp-basic/commit/dc5340a57c66d26e54960e730e7f99eb2f1b156a))
+- add Q.Delegate.Event project file with initial configuration
+  ([b8615812](https://github.com/DaoChaShao/csharp-basic/commit/b8615812ca4d57ca28801a581c5dfe3f6fc4fd7c))
+- add Q.Delegate.Event project to solution
+  ([db50e151](https://github.com/DaoChaShao/csharp-basic/commit/db50e15141ae9e13311706e6dba76607678b3f5d))
 - implement main program logic for delegate usage and language selection
   ([1d2fdb10](https://github.com/DaoChaShao/csharp-basic/commit/1d2fdb105dd9fdf555b95264f10b3a1595c42624))
 - add Option enum for language selection
@@ -150,6 +166,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update CHANGELOG.md to reflect recent updates and clarify documentation changes
+  ([ff3e93ea](https://github.com/DaoChaShao/csharp-basic/commit/ff3e93eadb069410a28c7fb1adfea777310f8527))
 - update README.md to clarify usage of git-changelog built with Node.js
   ([e1aadd15](https://github.com/DaoChaShao/csharp-basic/commit/e1aadd15cbfdf74707a4aa5a39952c560e85f2cc))
 - update CHANGELOG.md for version 0.1.0 with recent feature additions
