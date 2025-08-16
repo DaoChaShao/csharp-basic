@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q.Delegate.Event", "Q.Deleg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R.Operator.Overload", "R.Operator.Overload\R.Operator.Overload.csproj", "{06F3DF21-F950-4AD4-893D-6737C52F6450}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S.Basic.List", "S.Basic.List\S.Basic.List.csproj", "{A3FBE5F8-53F6-4499-81A4-C6B6925E6CD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{06F3DF21-F950-4AD4-893D-6737C52F6450}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06F3DF21-F950-4AD4-893D-6737C52F6450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06F3DF21-F950-4AD4-893D-6737C52F6450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FBE5F8-53F6-4499-81A4-C6B6925E6CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FBE5F8-53F6-4499-81A4-C6B6925E6CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FBE5F8-53F6-4499-81A4-C6B6925E6CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FBE5F8-53F6-4499-81A4-C6B6925E6CD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
