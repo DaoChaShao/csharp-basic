@@ -12,6 +12,16 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- implement main program for dictionary operations including create, read, update, delete, and sort
+  ([829af7f7](https://github.com/DaoChaShao/csharp-basic/commit/829af7f7362d40adf1eecbc0cb9b6d715a9ce505))
+- add T.Basic.Dictionary project file with initial configuration
+  ([b2d2fd44](https://github.com/DaoChaShao/csharp-basic/commit/b2d2fd440705e68ad7d1cf4857975ed626fe42e9))
+- add Helper class with GenderPicker and NamePicker methods
+  ([907c0854](https://github.com/DaoChaShao/csharp-basic/commit/907c08543b1d9d9650205d55c07d05ad8707124f))
+- add Gender enum to represent gender options
+  ([89f7d3fd](https://github.com/DaoChaShao/csharp-basic/commit/89f7d3fd604022a00e92142b9c75db17e302ff43))
+- add T.Basic.Dictionary project to the solution
+  ([60ec299b](https://github.com/DaoChaShao/csharp-basic/commit/60ec299b15bc330b58909f8c43d1ec9be1d88e51))
 - add sorting functionality to the names list
   ([44deb253](https://github.com/DaoChaShao/csharp-basic/commit/44deb25333775730439a95e9d70a08d7b8900744))
 - implement basic list operations with Faker for name generation
@@ -228,6 +238,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Chore
 
+- update CHANGELOG.md to include recent feature additions
+  ([90fd1673](https://github.com/DaoChaShao/csharp-basic/commit/90fd16739a3ad4221702cd2896bbfe39cb9f70fa))
 - update CHANGELOG.md to reflect recent feature additions
   ([96027a9e](https://github.com/DaoChaShao/csharp-basic/commit/96027a9e0306e0ed8b9d66bfe8eedcedb4642c7c))
 - update CHANGELOG.md to include recent feature additions
