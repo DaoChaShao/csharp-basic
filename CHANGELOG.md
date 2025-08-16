@@ -12,6 +12,14 @@ _All notable changes to this project will be documented in this file:_
 
 ## Features
 
+- implement main program to demonstrate Box operator overloading
+  ([36c5e432](https://github.com/DaoChaShao/csharp-basic/commit/36c5e43266ca52a8417db2faf2b82a6d9b96c6aa))
+- add Box class with operator overloading for addition
+  ([91e2f960](https://github.com/DaoChaShao/csharp-basic/commit/91e2f960fb8f345b65cf3fd5e3832d0156521fb4))
+- create R.Operator.Overload project with initial configuration
+  ([df394661](https://github.com/DaoChaShao/csharp-basic/commit/df3946612cb5702dad0521a2e4550889241eb67f))
+- add R.Operator.Overload project to the solution
+  ([cc852a34](https://github.com/DaoChaShao/csharp-basic/commit/cc852a3401f7099189933d4da691304e8243a724))
 - implement main program for user creation and event handling
   ([01c8fa9a](https://github.com/DaoChaShao/csharp-basic/commit/01c8fa9a4771c1883c9cea02d1cb3d53fc2b792e))
 - add Helper class with methods for random gender selection and delay setting
@@ -212,6 +220,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Chore
 
+- update CHANGELOG.md for version 0.1.0 with recent feature additions
+  ([bcc8dc2f](https://github.com/DaoChaShao/csharp-basic/commit/bcc8dc2f45928a29ce6f8b9f49289c9346c0dc00))
 - update CHANGELOG.md to include recent feature additions
   ([51b1916e](https://github.com/DaoChaShao/csharp-basic/commit/51b1916efcd0185474e3f3d19aeebd2e52b5f0e9))
 - update CHANGELOG.md to include recent feature additions
