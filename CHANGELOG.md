@@ -4,7 +4,7 @@ __CHANGELOG__
 
 _All notable changes to this project will be documented in this file:_
 
-# v 0.1.0  (2025-08-16)
+# v 0.1.0  (2025-08-17)
 
 
 
@@ -192,6 +192,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Documentation
 
+- update README.md for clarity and improved instructions on using git-changelog
+  ([473341f7](https://github.com/DaoChaShao/csharp-basic/commit/473341f7be2da550d4ce880f356b925d42a2bead))
 - update CHANGELOG.md to reflect recent updates and clarify documentation changes
   ([ff3e93ea](https://github.com/DaoChaShao/csharp-basic/commit/ff3e93eadb069410a28c7fb1adfea777310f8527))
 - update README.md to clarify usage of git-changelog built with Node.js
@@ -238,6 +240,8 @@ _All notable changes to this project will be documented in this file:_
 
 ## Chore
 
+- update CHANGELOG.md to include recent feature additions
+  ([b1a509f6](https://github.com/DaoChaShao/csharp-basic/commit/b1a509f67c94244c0a36f6355a1d07291704ee72))
 - update CHANGELOG.md to include recent feature additions
   ([90fd1673](https://github.com/DaoChaShao/csharp-basic/commit/90fd16739a3ad4221702cd2896bbfe39cb9f70fa))
 - update CHANGELOG.md to reflect recent feature additions
